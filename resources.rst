@@ -13,6 +13,8 @@ Come work on these exercises for learning python
 
 - https://www.dropbox.com/sh/agkn1r11zje0wl1/ptZohSlIFP
 
+- http://www.openbookproject.net/thinkcs/python/english2e/
+
 
 
 Python Videos
