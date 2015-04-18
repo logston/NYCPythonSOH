@@ -39,3 +39,9 @@ the editors below will work.
 - http://www.activestate.com/komodo-edit
 
 - http://www.jetbrains.com/pycharm/
+
+
+Other Collections of Python Resources
+=====================================
+
+- https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#python
