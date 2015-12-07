@@ -5,6 +5,8 @@ Come work on these exercises for learning python
 
 - http://learnpythonthehardway.org/book/
 
+-  https://wiki.python.org/moin/BeginnersGuide
+
 - https://github.com/NYCPython/nycpython.com/issues
 
 - https://github.com/thekarangoel/Projects
@@ -16,12 +18,16 @@ Come work on these exercises for learning python
 - http://www.openbookproject.net/thinkcs/python/english2e/
 
 
+Installation
+============
+
+- https://wiki.python.org/moin/BeginnersGuide/Download
+
 
 Python Videos
 =============
 
-http://pyvideo.org/
-
+- http://pyvideo.org/
 
 
 Text Editors & Integrated Development Environments (IDEs)
@@ -45,3 +51,5 @@ Other Collections of Python Resources
 =====================================
 
 - https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#python
+
+
