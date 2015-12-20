@@ -56,11 +56,9 @@ New python users might be inclined to start a new library or framework. Here is 
 tutorial for starting a new project, complete with tests & ``setup.py``. Following these practices
 will allow you to deploy your project to PyPI and distribute your code to end users.
 
-- Tutorial_
-- Code_
+- Tutorial https://packaging.python.org/en/latest/distributing/
 
-.. _Tutorial https://packaging.python.org/en/latest/distributing/
-.. _Code https://github.com/pypa/sampleproject/
+- Code https://github.com/pypa/sampleproject/
 
 Other Collections of Python Resources
 =====================================
