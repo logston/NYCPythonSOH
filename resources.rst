@@ -17,6 +17,8 @@ Come work on these exercises for learning python
 
 - http://www.openbookproject.net/thinkcs/python/english2e/
 
+- 
+
 
 Installation
 ============
@@ -46,6 +48,17 @@ the editors below will work.
 
 - http://www.jetbrains.com/pycharm/
 
+
+Libraries, Packaging and Starting New Projects
+==============================================
+
+New python users might be inclined to start a new library or framework. Here is the official
+tutorial for starting a new project, complete with tests & ``setup.py``. Following these practices
+will allow you to deploy your project to PyPI and distribute your code to end users.
+
+- Tutorial https://packaging.python.org/en/latest/distributing/
+
+- Code https://github.com/pypa/sampleproject/
 
 Other Collections of Python Resources
 =====================================
