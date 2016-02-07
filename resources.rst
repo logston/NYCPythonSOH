@@ -17,7 +17,18 @@ Come work on these exercises for learning python
 
 - http://www.openbookproject.net/thinkcs/python/english2e/
 
-- 
+- http://teachyourselftocode.com/
+
+
+Massive Open Online Course / Video courses
+===========================================
+
+- https://www.codecademy.com/
+
+- https://www.coursera.org
+
+- https://www.edx.org
+
 
 
 Installation
