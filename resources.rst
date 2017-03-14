@@ -5,7 +5,7 @@ Come work on these exercises for learning python
 
 - http://learnpythonthehardway.org/book/
 
--  https://wiki.python.org/moin/BeginnersGuide
+- https://wiki.python.org/moin/BeginnersGuide
 
 - https://github.com/NYCPython/nycpython.com/issues
 
@@ -29,7 +29,7 @@ Massive Open Online Course / Video courses
 
 - https://www.edx.org
 
-
+- https://www.udacity.com/
 
 Installation
 ============
@@ -48,6 +48,10 @@ Text Editors & Integrated Development Environments (IDEs)
 
 In order to write python code you will need a text editor or an IDE. Anyone of
 the editors below will work.
+
+- https://atom.io/
+
+- https://code.visualstudio.com/
 
 - http://www.sublimetext.com/
 
